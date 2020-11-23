@@ -47,7 +47,7 @@ export default function EditUserTag({ location }) {
   return (
     <Container>
       <Content>
-        <h1>Atualização de usuário</h1>
+        <h1>Cadastrar TAG</h1>
         <div className="nv">
           <Form
             initialData={user}
