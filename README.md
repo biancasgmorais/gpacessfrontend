@@ -1,5 +1,5 @@
 # GPACESS (Frontend)
-* Prototipo da Aplicação GPACESS desenvolvida como Trabalho de Conclusão de Curso afim de obter o titulo de bacharel em Engenharia de Computação na Universidade Federal Rural do Semi-Árido (UFERSA) no campus Pau dos Ferros;
+* Sistema da Aplicação GPACESS desenvolvida como Trabalho de Conclusão de Curso afim de obter o titulo de bacharel em Engenharia de Computação na Universidade Federal Rural do Semi-Árido (UFERSA) no campus Pau dos Ferros;
 * Orientado pela Profa. Dra. Verônica Maria Lima Silva.
 
 # Linguagem Utilizada
